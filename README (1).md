@@ -1,5 +1,5 @@
 
-# 🚀 ProASISTENTINVEST (verze 2028) – Aplikace budoucnosti pro inteligentní investování
+# 🚀 ProASISTENTINVEST  – Aplikac
 
 **ProASISTENTINVEST** je revoluční autonomní investiční platforma, kterou jsi začal v roce 2025.  
 Díky kombinaci GitHub nástrojů, AI technologií a obchodní intuice vznikla aplikace, která dnes pomáhá tisícům investorů maximalizovat zisk a minimalizovat riziko.
@@ -48,24 +48,21 @@ Díky kombinaci GitHub nástrojů, AI technologií a obchodní intuice vznikla a
 
 ## 🏗️ Architektura
 
-```
-📱 Frontend: Next.js + Tailwind + Hlasové API
-├── Crypto sekce: CoinGecko, Binance, TON
-├── Akcie: Revolut, Yahoo Finance, Bloomberg
-🧠 Backend: Node.js + Python AI + Web5
-├── Predikce: ASTRA + OmegaAI
-├── Pilot: HELIOS
-🛰️ API: GitHub Plugins + Wallet Sync + Cloudflare
-```
 
----
-
-## 🧭 Motto
-
-**„Investuj jako stroj. Rozhoduj jako mistr. Buď o 3 vteřiny napřed.“**
-
----
-
-> Vytvořeno s vizí, technologií a odhodláním.  
-> Tvůrce: *[Tvé jméno]*  
-> Powered by: `OpenAI`, `GitHub`, `Web5`, `Real-Time AI`
+📱 Frontend (Next.js + Tailwind + PWA + Hlasové API)
+├── Crypto & Tokeny sekce
+│   ├── CoinGecko, Binance, TON API
+│   ├── Heat-Map trader + Alert Engine
+│
+├── Akcie a Bankovní trhy
+│   ├── Yahoo Finance / Revolut / Bloomberg data
+│   ├── AI strategický náhled
+│
+🧠 Backend (Node.js + Python AI + Cloudflare Workers)
+│   ├── Predikční vrstvy (ASTRA + OmegaAI)
+│   ├── Obchodní motor (HELIOS)
+│
+🛰️ API Hub
+│   ├── GitHub pluginy
+│   ├── Web5 data nodes
+│   ├── Wallet sync engine (MetaMask, Trust, TON)
